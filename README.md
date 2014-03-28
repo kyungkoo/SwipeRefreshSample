@@ -1,4 +1,5 @@
 SwipeRefreshLayout Sample
 ==================
 
-This is Simple Project how to use New Android API SwipeRefreshLayou.
+This is very Simple project.
+Just know how to use SwipeRefreshLayout, android new API.
